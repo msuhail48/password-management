@@ -200,6 +200,6 @@
 
   </dependencies>
   <build>
-    <finalName>pwd</finalName>
+    <finalName>password-management</finalName>
   </build>
 </project>
